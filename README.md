@@ -30,7 +30,7 @@
 
 
 
-#### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
+##### If you have not done so already, please head over to the channel and hit that *subscribe* button to show some support. Thank you!!!
 </h2> 
 
 <h2 align="center"> 
