@@ -21,7 +21,9 @@
 
 ### [LPIC-1](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/7b4l7akdf3): Linux Professional Institute  [Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/mbk48breps): Linux Professional Institue 
 >**Note:**
->🏷These links are for verifying my certifications
+>🏷These links are for verifying my certifications,
+
+### If you are interested in getting in contact with me for collaboration or for any work-related opportunities, my contact info is available in source...
 
 
 
