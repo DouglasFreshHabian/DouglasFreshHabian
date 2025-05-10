@@ -34,19 +34,14 @@
 
 ### If you are interested in getting in contact with me for collaboration or for any work-related opportunities, my contact info is available in source...
 
-
-
-
-
-
-
-
 ##### If you have not done so already, please head over to the channel and hit that *subscribe* button to show some support. Thank you!!!
 </h2> 
 
 <h2 align="center"> 
 https://www.youtube.com/@DouglasHabian-tq5ck 
 
+  <h2 align="center"> 
+  <a href="https://www.buymeacoffee.com/dfreshZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!-- 
  _____              _       _____                        _          
