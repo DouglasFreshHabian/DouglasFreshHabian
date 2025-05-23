@@ -81,8 +81,8 @@ Even if your channel focuses on technical Linux forensic skills, you can weave t
 </div>
 
 <p align="center">
-  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/7b4l7akdf3">LPIC-1: Linux Professional Institute</a> |
-  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/mbk48breps">Linux Essentials: Linux Professional Institute</a>
+  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/7b4l7akdf3">LPIC-1: LPI...</a> |
+  <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/mbk48breps">Linux Essentials: LPI...</a>
 </p>
 
 
