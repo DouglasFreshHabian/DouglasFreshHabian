@@ -25,6 +25,7 @@
   
 At *Fresh Forensics*, we dive deep into the world of Linux forensics—not just to uncover what happened on a system, but to understand **why** it happened, how it was possible, and what lessons we can carry forward. But the name *Fresh Forensics* is more than just a nod to digital sleuthing. It’s a mindset. A philosophy. A call to approach not only computers, but also **ourselves**, with the same curiosity, rigor, and desire for clarity.
 
+
 <h2 align="center"> 
   🧠 Forensics of the Self
   </h2>
@@ -66,7 +67,9 @@ Even if your channel focuses on technical Linux forensic skills, you can weave t
 
 <h2 align="center"> 
   🧭 Mission Statement
-  </h2>
+ 
+  
+---
 
 > *Fresh Forensics is a space where digital forensics meets personal introspection. Through Linux investigations, we learn not just how systems break, but how we break—and how to repair, reboot, and refresh both. It’s not just about finding artifacts in memory—it’s about recovering parts of ourselves, too.*
 
