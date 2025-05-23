@@ -19,14 +19,16 @@
 </a>
 </h1>
 
-<h1 align="center"> 
+<h2 align="center"> 
   🌱 Fresh Forensics: More Than Code, A Way of Seeing
-  </h1>
+  </h2>
   
 At *Fresh Forensics*, we dive deep into the world of Linux forensics—not just to uncover what happened on a system, but to understand **why** it happened, how it was possible, and what lessons we can carry forward. But the name *Fresh Forensics* is more than just a nod to digital sleuthing. It’s a mindset. A philosophy. A call to approach not only computers, but also **ourselves**, with the same curiosity, rigor, and desire for clarity.
 
-#### 🧠 **Forensics of the Self**
-
+<h2 align="center"> 
+  🧠 Forensics of the Self
+  </h2>
+  
 In the same way we analyze logs, file systems, and memory dumps to uncover hidden truths in digital systems, we must sometimes turn that same investigative lens inward. What’s cluttering our mental hard drive? What beliefs, habits, or routines are running in the background—unnoticed, but shaping our lives?
 
 **Self-forensics** means:
@@ -37,16 +39,22 @@ In the same way we analyze logs, file systems, and memory dumps to uncover hidde
 
 Just like in digital forensics, the goal isn’t blame—it’s **understanding**, **learning**, and ultimately, **transformation**.
 
-#### 🔄 **Why "Fresh"?**
+<h2 align="center"> 
+  🔄 Why "Fresh"?
+  </h2>
 
+<h3 align="center"> 
 “Fresh” signifies two things:
+  </h3>
 
 1. **Clarity and honesty**—A clean, honest look at what's real, both in a compromised Linux system and in our personal lives.
 2. **Renewal**—The opportunity to reboot. To patch vulnerabilities in our thinking. To shed outdated behaviors and re-emerge stronger.
 
 ---
 
-### 🎥 How This Comes Through in Your Content
+<h2 align="center"> 
+  🎥 How This Comes Through in Your Content
+  </h2>
 
 Even if your channel focuses on technical Linux forensic skills, you can weave this deeper message into the tone, structure, and framing of your videos. For example:
 
@@ -56,7 +64,9 @@ Even if your channel focuses on technical Linux forensic skills, you can weave t
 
 ---
 
-### 🧭 Mission Statement
+<h2 align="center"> 
+  🧭 Mission Statement
+  </h2>
 
 > *Fresh Forensics is a space where digital forensics meets personal introspection. Through Linux investigations, we learn not just how systems break, but how we break—and how to repair, reboot, and refresh both. It’s not just about finding artifacts in memory—it’s about recovering parts of ourselves, too.*
 
