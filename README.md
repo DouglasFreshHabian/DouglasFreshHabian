@@ -72,20 +72,16 @@ Even if your channel focuses on technical Linux forensic skills, you can weave t
   <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000519037/mbk48breps">Linux Essentials: Linux Professional Institute</a>
 </p>
 
->**Note:**
->🏷These links are for verifying my certifications,
 
-### If you are interested in getting in contact with me for collaboration or for any work-related opportunities, my contact info is available in source...
 
-##### If you have not done so already, please head over to the channel and hit that *subscribe* button to show some support. Thank you!!!
-</h2> 
+
 
 <h2 align="center"> 
 https://www.youtube.com/@DouglasHabian-tq5ck 
 
   <h2 align="center"> 
   <a href="https://www.buymeacoffee.com/dfreshZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+</h2> 
 <!-- 
  _____              _       _____                        _          
 |  ___| __ ___  ___| |__   |  ___|__  _ __ ___ _ __  ___(_) ___ ___ 
