@@ -23,7 +23,9 @@
   <img src="https://raw.githubusercontent.com/DouglasFreshHabian/DouglasFreshHabian/main/Graphics/Flipper-Zero-Hadware-Hacking-2.png" width="600"/>
 </p>
 
-🚨 YOUTUBE CHANNEL UPDATE: APRIL 18TH 2026
+<h2 align="center"> 
+  🚨 YOUTUBE CHANNEL UPDATE: APRIL 18TH 2026
+  </h2>
 
 I want to be transparent with you all about something that just happened. I received my first Community Guidelines strike, and because of that, I won’t be able to upload for the next week.
 
