@@ -19,6 +19,27 @@
 </a>
 </h1>
 
+🚨 YOUTUBE CHANNEL UPDATE: APRIL 18TH 2026
+
+I want to be transparent with you all about something that just happened. I received my first Community Guidelines strike, and because of that, I won’t be able to upload for the next week.
+
+The video that was removed was about using the Flipper Zero to access an IoT camera over serial. Not hacking random devices. Not breaking into anything. Simply demonstrating that the Flipper Zero can be used in place of a USB to TTL adapter, which is something that has been done and shown by many creators in this space.
+
+What makes this harder to process is that the title I used was actually suggested by YouTube Studio itself. A few days later, that same video gets taken down and results in a strike.
+
+I’m not going to sit here and play the victim. But I will say this, it’s frustrating to see similar content out there with the same framing, same style, and same intent, still up without issue. Meanwhile, my video, which was meant to highlight legitimate and practical uses of the Flipper Zero outside of “hacking,” gets penalized.
+
+That was the whole point of the video. To show that this device isn’t just what people assume it is. It’s a versatile tool, and in this case, it was being used for something completely normal in the world of hardware and debugging. If anything I have errored on the side of safe when it comes to my content because I love YouTube and being able to make content for you guys. As someone who changed his entire life and still gets judged for it, still has doors shut in his face, I never encourage people to do anything illegal or unethical and likewise my videos are never framed to reflect that. I'm not going to name drop but there several creators whose content should be removed if that video was removed.
+
+I have always tried my best to keep my personal life out of my YouTube channel and keep it stricly about Linux. With that being said, I do suspect that there is much more at play here with this situation. It is not the first time and won't be the last time that I am unfairly targeted. 
+Because of this, I’m going to take a step back and seriously think about the direction of the channel. I need to decide whether continuing to make content around devices like the Flipper Zero is worth the risk moving forward.
+
+I appreciate all of you who watch, support, and understand what I’m trying to build here. This isn’t the end just a moment to pause, reflect, and come back smarter.
+
+
+
+
+
 <h2 align="center"> 
   🌱 Fresh Forensics: More Than Code, A Way of Seeing
   </h2>
